@@ -5,6 +5,7 @@ This project analyzes emergency room patient data using Python for data preparat
 ## 📊 Highlights
 
 - Data cleaning and preprocessing of emergency room patient records
+- Built a machine learning classification model to predict patient mortality based on clinical indicators such as age, wait time, infection rate, and readmission history.
 - Correlation analysis and summary statistics to identify key factors affecting patient outcomes
 - Visualizations of trends in patient wait times, mortality rates, readmission rates, and department referrals using Power BI
 - Insights into feature relationships such as how age, wait time, and infection rates correlate with mortality and recovery outcomes
